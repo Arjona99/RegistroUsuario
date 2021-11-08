@@ -102,13 +102,14 @@
         android:fontFamily="@font/poppins"
         android:text="Avanzar"
         android:textFontWeight="700"
+        android:onClick="clickNext"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/birthDate" />
 
     <Button
-        android:id="@+id/bt_clean"
+        android:id="@+id/bt_clear"
         android:layout_width="0dp"
         android:layout_height="66dp"
         android:layout_marginStart="16dp"
@@ -119,6 +120,7 @@
         android:text="Limpiar"
         android:textColor="@color/black"
         android:textFontWeight="700"
+        android:onClick="clickClean"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
