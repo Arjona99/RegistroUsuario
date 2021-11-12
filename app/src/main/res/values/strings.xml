@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">RegistroUsuario</string>
+    <string name="bt_continue">Avanzar</string>
+    <string name="title_register">Registro</string>
+    <string name="name">Nombre</string>
+    <string name="email">Email</string>
+    <string name="account_number">Número de cuenta</string>
+    <string name="birth_date">Fecha de nacimiento</string>
+    <string name="bt_clear">Limpiar</string>
+    <string name="title_welcome">Hola %s!</string>
+    <string name="title_basic_information">Información básica</string>
+    <string name="age">Edad</string>
+    <string name="title_chinese_horoscope">Horóscopo chino</string>
+    <string name="animal">Animal</string>
+    <string name="rat">Rata</string>
+    <string name="ox">Buey</string>
+    <string name="tiger">Tigre</string>
+    <string name="rabbit">Conejo</string>
+    <string name="dragon">Dragón</string>
+    <string name="snake">Serpiente</string>
+    <string name="horse">Caballo</string>
+    <string name="goat">Cabra</string>
+    <string name="monkey">Mono</string>
+    <string name="rooster">Gallo</string>
+    <string name="dog">Perro</string>
+    <string name="pig">Cerdo</string>
+    <string name="inputError">Introduce un valor válido</string>
 </resources>

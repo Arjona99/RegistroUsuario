@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RegistroUsuario</string>
+    <string name="bt_continue">Continue</string>
+    <string name="title_register">Register</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="account_number">Account number</string>
+    <string name="birth_date">Date of birth</string>
+    <string name="bt_clear">Clear</string>
+    <string name="title_welcome">Hi %s!</string>
+    <string name="title_basic_information">Basic information</string>
+    <string name="age">Age</string>
+    <string name="title_chinese_horoscope">Chinese horoscope</string>
+    <string name="animal">Animal</string>
+    <string name="rat">Rat</string>
+    <string name="ox">Ox</string>
+    <string name="tiger">Tiger</string>
+    <string name="rabbit">Rabbit</string>
+    <string name="dragon">Dragon</string>
+    <string name="snake">Snake</string>
+    <string name="horse">Horse</string>
+    <string name="goat">Goat</string>
+    <string name="monkey">Monkey</string>
+    <string name="rooster">Rooster</string>
+    <string name="dog">Dog</string>
+    <string name="pig">Pig</string>
+    <string name="inputError">Enter a valid value</string>
+</resources>
